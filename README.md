@@ -1,19 +1,7 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Ms Edge Tts After Browser Support
+# <img src="public/icons/icon_48.png" width="45" align="left"> Ms Edge TTS Chrome Extension
 
-My Chrome Extension
+A simple Text-To-Speech Chrome Extension using [MsEdgeTTS](https://github.com/Migushthe2nd/MsEdgeTTS)
 
-## Features
-
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
 
 ---
 
